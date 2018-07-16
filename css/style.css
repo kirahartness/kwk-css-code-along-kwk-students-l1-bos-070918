@@ -1,1 +1,14 @@
 /* add CSS class and element and selectors here */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+
+body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+   
+    .myClass {
+      background-color: gray;
+      color: blue; 
+      font-family: Open Sans Condensed;
+      font-size: 200%;
+    }
